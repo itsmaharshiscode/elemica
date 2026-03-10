@@ -1,0 +1,15 @@
+./.cursor
+./.venv
+./cateboost_info
+./FP_Groups_Histograms
+./FP_Data_Date_Diff_Histogram
+./FB_Negative_Groups_Histograms_With_Bin_Table
+./mlruns
+./data
+./models
+./results
+./logs
+./notebooks
+./scripts
+./tests
+./utils
